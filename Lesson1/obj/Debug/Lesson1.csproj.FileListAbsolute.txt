@@ -1,0 +1,7 @@
+C:\Users\Vitalyi\source\repos\Lesson1\Lesson1\bin\Debug\Lesson1.exe.config
+C:\Users\Vitalyi\source\repos\Lesson1\Lesson1\bin\Debug\Lesson1.exe
+C:\Users\Vitalyi\source\repos\Lesson1\Lesson1\bin\Debug\Lesson1.pdb
+C:\Users\Vitalyi\source\repos\Lesson1\Lesson1\obj\Debug\Lesson1.csprojAssemblyReference.cache
+C:\Users\Vitalyi\source\repos\Lesson1\Lesson1\obj\Debug\Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\Vitalyi\source\repos\Lesson1\Lesson1\obj\Debug\Lesson1.exe
+C:\Users\Vitalyi\source\repos\Lesson1\Lesson1\obj\Debug\Lesson1.pdb
